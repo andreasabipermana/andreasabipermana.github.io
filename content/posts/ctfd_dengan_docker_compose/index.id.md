@@ -5,8 +5,12 @@ date: 2022-09-30T19:42:11+07:00
 
 Pada postingan blog pertama ini saya akan membagikan bagaimana cara menjalankan CTFd dengan menggunakan Docker Compose.
 
+![Logo CTFd](logo.png "Logo CTFd")
+
 ## Apa itu CTFd
 CTFd adalah kerangka kerja Capture The Flag yang berfokus pada kemudahan penggunaan dan kemampuan penyesuaian. CTFd memiliki fitur yang cukup lengkap untuk menjalankan acara lomba  Capture The Flag. CTFd ini mudah digunakan dan tersedia juga berbagai macam plugin dan tema, sehingga sangat mudah untuk di kustomisasi CTFd dibuat dalam bentuk aplikasi Web. Berikut ini tampilan dari CTFd.
+
+![Tampilan CTFd](tampilan_ctfd.png "Tampilan CTFd")
 
 ## Fitur CTFd
 * Buat tantangan, kategori, petunjuk, dan tanda Anda sendiri dari Antarmuka Admin
@@ -23,9 +27,36 @@ CTFd adalah kerangka kerja Capture The Flag yang berfokus pada kemudahan penggun
 * Mengimpor dan Mengekspor data CTF untuk arsip
 * Dan lain lain
 
-Lebih lengkapnya anda bisa melihat di dokumentasi resmi CTFd pada tautan berikut.
+Lebih lengkapnya anda bisa melihat di dokumentasi resmi CTFd pada tautan [berikut](https://github.com/CTFd/CTFd).
 
 ## Persiapan
 Siapkan beberapa bagian berikut sebelum menjalankan CTFd menggunakan Docker Compose
 * Sediakan 1 VPS dengan Sistem Operasi Ubuntu/Debian
 * Pastikan Docker Engine dan Docker Compose telah terinstall di VPS
+
+## Langkah - langkah
+
+1. Masuk ke konsole VPS yang telah disiapkan.
+![Konsol VPS](1.png "Konsol VPS")
+2. Lakukan installasi Docker menggunakan tautan dibawah ini.  
+[Instalasi Docker Engine dan Compose](https://docs.docker.com/engine/install/)
+3. Cek apakah docker dan docker compose telah terinstall  
+![Cek Docker dan Docker Compose](2.png "Cek Docker dan Docker Compose")
+4. Lakukan instalasi git dengan perintah berikut  
+``` apt install git -y ```
+5. Lakukan cloning repository dari CTFD dengan perintah berikut
+``` git clone https://github.com/CTFd/CTFd.git ```
+![Cloning Repository CTFd](3.png "Cloning Repository CTFd")
+6. Masuk ke direktori CTFD
+``` cd CTFd/ ```
+7. Generate secret key dengan perintah berikut
+``` head -c 64 /dev/urandom > .ctfd_secret_key ```
+8. Jalankan docker compose
+``` docker compose up ```
+9. CTFd dapat diakses pada http://IP-Server:8000. Berikut ini tampilan halaman setup dari CTFd.
+![Tampilan Setup CTFd](4.png "Tampilan Setup CTFd")
+10. Kerangka Kerja CTFd siap untuk dikonfigurasi dan digunakan.
+
+
+## Sumber
+* Dokumentasi Resmi CTFD : [https://docs.ctfd.io/docs/deployment/installation](https://docs.ctfd.io/docs/deployment/installation)
