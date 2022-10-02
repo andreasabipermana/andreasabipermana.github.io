@@ -43,10 +43,10 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
-      - name: Setup Secret
-        shell: bash
-        run: |
-          sed -i 's|defaultapp_id|${{secrets.APPID}}|' config.toml && sed -i 's|defaultapp_key|${{ secrets.APPKEY }}|' config.toml && cat config.toml
+      - name: wget
+        uses: wei/wget@v1
+        with:
+          args: -O config.toml https://lc-gluttony.s3.amazonaws.com/kZUDmXn7FrKS/3Nu2xPh1902mFjdEBSs4Jj8JhjRLPj18/config.toml
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
