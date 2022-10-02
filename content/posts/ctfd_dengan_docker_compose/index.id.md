@@ -46,7 +46,9 @@ Siapkan beberapa bagian berikut sebelum menjalankan CTFd menggunakan Docker Comp
 3. Cek apakah docker dan docker compose telah terinstall  
 ![Cek Docker dan Docker Compose](2.png "Cek Docker dan Docker Compose")
 4. Lakukan instalasi git dengan perintah berikut  
-``` apt install git -y ```
+```bash
+apt install git -y 
+```
 5. Lakukan cloning repository dari CTFD dengan perintah berikut
 ``` git clone https://github.com/CTFd/CTFd.git ```
 ![Cloning Repository CTFd](3.png "Cloning Repository CTFd")
