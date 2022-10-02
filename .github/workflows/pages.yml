@@ -43,9 +43,11 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
-      - name: Set Up Secret
+      - shell: bash
+        env:
+          APPID: ${{ secrets.APPID }}
         run: |
-          sed -i 's,appId = "",appId = "${{ secrets.APPID }}",g' config.toml && sed -i 's,appKey = "",appKey = "${{ secrets.APPKEY }}",' config.toml && sed -i 's,serverURLs = "",serverURLs = "${{ secrets.SERVER_URL }}",' config.toml && cat config.toml
+          sed -i 's,appId = "",appId = "$APPID",g' config.toml && sed -i 's,appKey = "",appKey = "${{ secrets.APPKEY }}",' config.toml && sed -i 's,serverURLs = "",serverURLs = "${{ secrets.SERVER_URL }}",' config.toml && cat config.toml
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
