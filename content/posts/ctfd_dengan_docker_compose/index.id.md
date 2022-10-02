@@ -74,12 +74,15 @@ docker compose up
 ## Menjalankan CTFd pada Port 80
 Secara bawaan konfigurasi CTFd menggunakan Docker Compose berjalan pada Port 8000, untuk mengubah menjadi port 80 jalankan langkah - langkah berikut.
 
-1. Pertama - tama, ubah terlebih dahulu konfigurasi CTFd pada docker-compose.yml. Buka docker-compose.yml menggunakan perintah nano.
-```bash nano docker-compose.yaml```
-2. Hapus konfigurasi berikut pada service CTFd.
+1. Pertama - tama, ubah terlebih dahulu konfigurasi CTFd pada docker-compose.yml. Buka docker-compose.yml menggunakan perintah nano.  
+```bash 
+nano docker-compose.yaml
+```
+2. Hapus konfigurasi berikut pada service CTFd.  
 ```yaml
 ports:
-  - "8000:8000"```
+  - "8000:8000"
+```
 3. Sehingga berkas docker-compose.yaml menjadi seperti dibawah ini.
 ```yaml
 version: '2'
@@ -146,10 +149,12 @@ networks:
     internal:
         internal: true
 ```
-4. Konfigurasi nginx perlu dilakukan perubahan karena pada repository url reverse proxynya masih belum sesuai, sehingga CTFd tidak dapat berjalan pada port 80. Buka berkas konfigurasi nginx menggunakan perintah nano.
-```bash nano conf/nginx/http.conf```
+4. Konfigurasi nginx perlu dilakukan perubahan karena pada repository url reverse proxynya masih belum sesuai, sehingga CTFd tidak dapat berjalan pada port 80. Buka berkas konfigurasi nginx menggunakan perintah nano.  
+```bash 
+nano conf/nginx/http.conf
+```
 5. Sesuaikan konfigurasi menjadi seperti dibawah ini.
-```conf
+```bash
 worker_processes 4;
 
 events {
@@ -201,7 +206,7 @@ http {
 }
 ```
 6. Perubahan ada pada bagian `proxy_pass http://ctfd:800` .
-7. Jalankan Docker Compose
+7. Jalankan Docker Compose  
 ```bash docker compose up```
 8. CTFd dapat diakses pada http://IP-Server. Berikut ini tampilan halaman setup dari CTFd.
 ![Tampilan Setup CTFd](4.png "Tampilan Setup CTFd")
