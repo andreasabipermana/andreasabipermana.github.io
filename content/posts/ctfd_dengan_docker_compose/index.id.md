@@ -54,6 +54,7 @@ apt install git -y
 git clone https://github.com/CTFd/CTFd.git
 ```
 ![Cloning Repository CTFd](3.png "Cloning Repository CTFd")
+
 6. Masuk ke direktori CTFD  
 ```bash
 cd CTFd/ 
