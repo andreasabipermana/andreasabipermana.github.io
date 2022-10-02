@@ -71,3 +71,22 @@ languageName = "Indonesian"
     typeit = true
     # whether to show social links
     social = true
+
+[params.page.comment]
+    enable = true
+    [params.page.comment.giscus]
+        # You can refer to the official documentation of giscus to use the following configuration.
+        enable = true
+        repo = "github.com/andreasabipermana/andreasabipermana.github.io"
+        repoId = "github.com/andreasabipermana/andreasabipermana.github.io"
+        category = "Q&A"
+        categoryId = ""
+        # automatically adapt the current theme i18n configuration when empty
+        lang = ""
+        mapping = "pathname"
+        reactionsEnabled = "1"
+        emitMetadata = "0"
+        inputPosition = "bottom"
+        lazyLoading = false
+        lightTheme = "light"
+        darkTheme = "dark"
