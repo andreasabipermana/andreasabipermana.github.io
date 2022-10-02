@@ -76,8 +76,8 @@ languageName = "Indonesian"
     enable = true
     [params.page.comment.valine]
         enable = true
-        appId = "kZUDmXn7FrKSx1GzRs0oIcma-MdYXbMMI"
-        appKey = "uM3nA8XUZ7QuzlTCbDG1SwEu"
+        appId = ""
+        appKey = ""
         placeholder = ""
         avatar = "mp"
         meta= ""
@@ -88,7 +88,7 @@ languageName = "Indonesian"
         recordIP = true
         highlight = true
         enableQQ = false
-        serverURLs = "https://kzudmxn7.api.lncldglobal.com"
+        serverURLs = ""
         # LoveIt NEW | 0.2.6 emoji data file name, default is "google.yml"
         # ["apple.yml", "google.yml", "facebook.yml", "twitter.yml"]
         # located in "themes/LoveIt/assets/lib/valine/emoji/" directory
