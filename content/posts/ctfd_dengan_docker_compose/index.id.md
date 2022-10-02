@@ -212,6 +212,9 @@ http {
 8. CTFd dapat diakses pada http://IP-Server. Berikut ini tampilan halaman setup dari CTFd.
 ![Tampilan Setup CTFd](4.png "Tampilan Setup CTFd")
 9. Kerangka Kerja CTFd sudah berjalan pada port 80.
+
+## Penutup
+Sekian sedikit materi yang dapat saya bagikan pada postingan ini, Apabila ada kesalahan saya mohon maaf, dan apabila ingin bertanya pada kolom komentar silahkan tulis di kolom komentar. Terima kasih.
  
 ## Sumber
 * Dokumentasi Resmi CTFD : [https://docs.ctfd.io/docs/deployment/installation](https://docs.ctfd.io/docs/deployment/installation)
