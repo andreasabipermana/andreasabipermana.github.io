@@ -205,7 +205,8 @@ http {
   }
 }
 ```
-6. Perubahan ada pada bagian `proxy_pass http://ctfd:800` .
+6. Perubahan ada pada bagian `proxy_pass http://ctfd:8000` yang mana pada konfigurasi sebelumnya
+`proxy_pass http://app_servers` .
 7. Jalankan Docker Compose  
 ```bash docker compose up```
 8. CTFd dapat diakses pada http://IP-Server. Berikut ini tampilan halaman setup dari CTFd.
