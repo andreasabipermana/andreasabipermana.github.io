@@ -74,19 +74,24 @@ languageName = "Indonesian"
 
 [params.page.comment]
     enable = true
-    [params.page.comment.giscus]
-        # You can refer to the official documentation of giscus to use the following configuration.
-        enable = true
-        repo = "github.com/andreasabipermana/andreasabipermana.github.io"
-        repoId = "github.com/andreasabipermana/andreasabipermana.github.io"
-        category = "Q&A"
-        categoryId = ""
+    [params.page.comment.valine]
+        enable = false
+        appId = "kZUDmXn7FrKSx1GzRs0oIcma-MdYXbMMI"
+        appKey = "uM3nA8XUZ7QuzlTCbDG1SwEu"
+        placeholder = ""
+        avatar = "mp"
+        meta= ""
+        pageSize = 10
         # automatically adapt the current theme i18n configuration when empty
         lang = ""
-        mapping = "pathname"
-        reactionsEnabled = "1"
-        emitMetadata = "0"
-        inputPosition = "bottom"
-        lazyLoading = false
-        lightTheme = "light"
-        darkTheme = "dark"
+        visitor = true
+        recordIP = true
+        highlight = true
+        enableQQ = false
+        serverURLs = "https://kzudmxn7.api.lncldglobal.com"
+        # LoveIt NEW | 0.2.6 emoji data file name, default is "google.yml"
+        # ["apple.yml", "google.yml", "facebook.yml", "twitter.yml"]
+        # located in "themes/LoveIt/assets/lib/valine/emoji/" directory
+        # you can store your own data files in the same path under your project:
+        # "assets/lib/valine/emoji/"
+        emoji = ""
