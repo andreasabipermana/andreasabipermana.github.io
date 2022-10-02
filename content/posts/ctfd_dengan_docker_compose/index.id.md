@@ -50,14 +50,22 @@ Siapkan beberapa bagian berikut sebelum menjalankan CTFd menggunakan Docker Comp
 apt install git -y 
 ```
 5. Lakukan cloning repository dari CTFD dengan perintah berikut
-``` git clone https://github.com/CTFd/CTFd.git ```
+```bash
+git clone https://github.com/CTFd/CTFd.git
+```
 ![Cloning Repository CTFd](3.png "Cloning Repository CTFd")
 6. Masuk ke direktori CTFD  
-``` cd CTFd/ ```
+```bash
+cd CTFd/ 
+```
 7. Generate secret key dengan perintah berikut
-``` head -c 64 /dev/urandom > .ctfd_secret_key ```
+```bash
+head -c 64 /dev/urandom > .ctfd_secret_key
+```
 8. Jalankan docker compose  
-``` docker compose up ```
+```bash
+docker compose up
+```
 9. CTFd dapat diakses pada http://IP-Server:8000. Berikut ini tampilan halaman setup dari CTFd.
 ![Tampilan Setup CTFd](4.png "Tampilan Setup CTFd")
 10. Kerangka Kerja CTFd siap untuk dikonfigurasi dan digunakan.
