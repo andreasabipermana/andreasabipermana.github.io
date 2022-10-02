@@ -75,7 +75,7 @@ languageName = "Indonesian"
 [params.page.comment]
     enable = true
     [params.page.comment.valine]
-        enable = false
+        enable = true
         appId = "kZUDmXn7FrKSx1GzRs0oIcma-MdYXbMMI"
         appKey = "uM3nA8XUZ7QuzlTCbDG1SwEu"
         placeholder = ""
