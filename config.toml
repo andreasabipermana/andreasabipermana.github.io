@@ -76,8 +76,8 @@ languageName = "Indonesian"
     enable = true
     [params.page.comment.valine]
         enable = true
-        appId = ""
-        appKey = ""
+        appId = "defaultapp_id"
+        appKey = "defaultapp_key"
         placeholder = ""
         avatar = "mp"
         meta= ""
