@@ -3,6 +3,8 @@ title: "About Author"
 date: 2022-10-02T18:19:48+07:00
 description: "About Author"
 lightgallery: true
+comment:
+  enable: false
 ---
 
 ## Hi 👋, I'm Andreas Abi Permana
