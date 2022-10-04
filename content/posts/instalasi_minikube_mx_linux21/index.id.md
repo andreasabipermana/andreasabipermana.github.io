@@ -8,4 +8,4 @@ resources:
 tags: ["Docker", "Kubernetes"]
 categories: ["Kubernetes"]
 ---
-
+Pada postingan ini saya akan membagikan bagaimana cara melakukan instalasi Minikube pada MX Linux 21
