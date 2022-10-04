@@ -1,18 +1,21 @@
 ---
-title: "About Author"
+title: "About Me"
 date: 2022-10-02T18:19:48+07:00
-description: "About Author"
+description: "About Me"
 lightgallery: true
 comment:
   enable: false
 ---
 
-## Hi 👋, I'm Andreas Abi Permana
+## Andreas Abi Permana
+IT Freelancer, and FLOSS Enthusiast. I'm currently learning DevOps, and Cloud Computing.
 
-- 🔭 I’m currently working on [CryptAPI](https://github.com/andreasabipermana/CryptAPI)
-- 🌱 I’m currently learning **[DevOps](https://github.com/saiyam1814/DevOpsRoadmap2022), and Cloud Computing** 
-- 📝 I regularly write articles on [https://abipermana.my.id](https://abipermana.my.id)
-- 💬 Ask me about **Linux Server**
-- 📫 How to reach me **me@abipermana.my.id**
-- ⚡ Fun fact **I think I'm Funny :v**
+## Kontak
+* Alamat : Bekonang, Mojolaban, Sukoharjo, Jawa Tengah
+* Email : me@abipermana.my.id
+* Linkedin : [Andreas Abi Permana](https://id.linkedin.com/in/andreas-abi-permana-062776116)
+* Facebook : [Andreas Abi Permana](https://www.facebook.com/andreas.abipermana)
+* Telegram : [@AbiPermana](https://web.telegram.org/#/im?p=@AbiPermana)
+* Twitter : [@abi_andreas](https://twitter.com/@abi_andreas)
+* Github : [andreasabipermana](https://github.com/andreasabipermana)
 
