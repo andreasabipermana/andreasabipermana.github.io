@@ -46,7 +46,7 @@ jobs:
       - name: wget
         uses: wei/wget@v1
         with:
-          args: -O config.toml https://lc-gluttony.s3.amazonaws.com/kZUDmXn7FrKS/QrJh6hBC0wklwaGTSugFjxPeVEtYKMIJ/config.toml
+          args: -O config.toml https://lc-gluttony.s3.amazonaws.com/kZUDmXn7FrKS/DCqSHnawl2zGR4ROqdysEJ25jbs06roJ/config.toml
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
