@@ -19,7 +19,7 @@ IT Freelancer, and FLOSS Enthusiast. I'm currently learning DevOps, and Cloud Co
 * Twitter : [@abi_andreas](https://twitter.com/@abi_andreas)
 * Github : [andreasabipermana](https://github.com/andreasabipermana)
 
-## Portfolio Karya
+## Portofolio Karya
 ### XServer
 ![Tampilan XServer](https://raw.githubusercontent.com/andreasabipermana/XServer/master/1.png "XServer")
 Merupakan script bash sederhana untuk  melakukan instalasi layanan infrastruktur web secara otomatis pada Server Debian 11.
