@@ -19,3 +19,19 @@ IT Freelancer, and FLOSS Enthusiast. I'm currently learning DevOps, and Cloud Co
 * Twitter : [@abi_andreas](https://twitter.com/@abi_andreas)
 * Github : [andreasabipermana](https://github.com/andreasabipermana)
 
+## Portfolio Karya
+### XServer
+![Tampilan XServer](https://raw.githubusercontent.com/andreasabipermana/XServer/master/1.png "XServer")
+Merupakan script bash sederhana untuk  melakukan instalasi layanan infrastruktur web secara otomatis pada Server Debian 11.
+  * Tautan : [https://github.com/andreasabipermana/XServer](https://github.com/andreasabipermana/XServer)
+### Bangkit Capstone Project Nusademy Indonesia
+![Tampilan Arsitektur Cloud](https://raw.githubusercontent.com/nusademy/Bangkit2021CapstoneProject/main/Cloud-Computing/NusaDemy%20Cloud%20Architecture.png "Arsitektur Cloud")
+Merupakan proyek akhir dari Bangkit Academy 2021, saya merancang arsitektur Cloud Computing menggunakan GCP dan mengimplementasikan arsitektur tersebut beserta pembuatan CI/CD pipeline pada aplikasi.
+  * Tautan : [https://github.com/nusademy/Bangkit2021CapstoneProject](https://github.com/nusademy/Bangkit2021CapstoneProject) 
+### Aplikasi CryptAPI menggunakan Codeigniter 3 dan MySQL
+![Tampilan CryptAPI](cryptapi.png "CryptAPI")
+Merupakan aplikasi platform manajemen kunci kriptografi untuk mengamankan data sensitif pada aplikasi.
+  * Tautan : [https://github.com/andreasabipermana/CryptAPI](https://github.com/andreasabipermana/CryptAPI) 
+### Aplikasi Penjualan berbasis Desktop PyQT
+Merupakan aplikasi desktop penjualan toko sederhana dibangun menggunakan PyQT dan MySQL
+  * Tautan : [https://github.com/andreasabipermana/aplikasi-penjualan-pyqt5-mysql](https://github.com/andreasabipermana/aplikasi-penjualan-pyqt5-mysql) 
