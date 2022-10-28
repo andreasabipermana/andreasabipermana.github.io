@@ -1,7 +1,6 @@
 ---
 title: "Catatan - Perintah Merubah Nama Pengguna Linux"
 date: 2022-10-28T09:11:00+07:00
-draft: true
 hiddenFromHomePage: true
 comment:
   enable: false
