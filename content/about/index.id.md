@@ -32,6 +32,11 @@ Merupakan proyek akhir dari Bangkit Academy 2021, saya merancang arsitektur Clou
 ![Tampilan CryptAPI](cryptapi.png "CryptAPI")
 Merupakan aplikasi platform manajemen kunci kriptografi untuk mengamankan data sensitif pada aplikasi.
   * Tautan : [https://github.com/andreasabipermana/CryptAPI](https://github.com/andreasabipermana/CryptAPI) 
+  * Live demo : https://cryptapi.abipermana.my.id
+  * Login Administrator `admin` dan pass `123`
+  * Login Pengguna `abi` dan pass `123`
+
+
 ### Aplikasi Penjualan berbasis Desktop PyQT
 Merupakan aplikasi desktop penjualan toko sederhana dibangun menggunakan PyQT dan MySQL
   * Tautan : [https://github.com/andreasabipermana/aplikasi-penjualan-pyqt5-mysql](https://github.com/andreasabipermana/aplikasi-penjualan-pyqt5-mysql) 
