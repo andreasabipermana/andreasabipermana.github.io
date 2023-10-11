@@ -8,7 +8,7 @@ comment:
 ---
 
 ## Andreas Abi Permana
-IT Freelancer, and FLOSS Enthusiast. I'm currently learning DevOps, and Cloud Computing.
+Sekarang bekerja sebagai Security Engineering di salah satu perusahaan di Surabaya. Seorang penggiat Cyber Security dan Aktivis Komunitas [Paguyuban Linux Solo](https://t.me/linuxsolo) . Sekarang sedang belajar mengenai Security Engineering, Cloud Computing Security, dan DevSecOps.
 
 ## Kontak
 * Alamat : Bekonang, Mojolaban, Sukoharjo, Jawa Tengah
