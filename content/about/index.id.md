@@ -8,7 +8,7 @@ comment:
 ---
 
 ## Andreas Abi Permana
-Sekarang bekerja sebagai Security Engineering di salah satu perusahaan di Surabaya. Seorang penggiat Cyber Security dan Aktivis Komunitas [Paguyuban Linux Solo](https://t.me/linuxsolo) . Sekarang sedang belajar mengenai Security Engineering, Cloud Computing Security, dan DevSecOps.
+Sekarang bekerja sebagai Security Engineering di salah satu perusahaan di Surabaya. Seorang penggiat Cyber Security, Free/ Libre Open Source Software dan Aktif di Komunitas [Paguyuban Linux Solo](https://t.me/linuxsolo) . Sekarang sedang belajar mengenai Security Engineering, Cloud Computing Security, dan DevSecOps.
 
 ## Kontak
 * Alamat : Bekonang, Mojolaban, Sukoharjo, Jawa Tengah
