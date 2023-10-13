@@ -60,5 +60,4 @@ Saya mohon maaf apabila ada kata-kata yang kurang berkenan dengan tulisan saya.
 * Website LOUCA2023 [https://louca.id](https://louca.id)
 * Foto Komunitas Acara LOUCA2023 [tautan](https://photos.app.goo.gl/ctS9jJQRmyaEyiS36)
 
-![Sponsor TDF](sponsor_tdf.png "Sponsor TDF")
-![Sponsor Ubuntu](sponsor_ubuntu.png "Sponsor Ubuntu")
+![Sponsor TDF](sponsor_tdf.png "Sponsor TDF") ![Sponsor Ubuntu](sponsor_ubuntu.png "Sponsor Ubuntu")
