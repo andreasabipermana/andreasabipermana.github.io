@@ -11,7 +11,7 @@ categories: ["Cerita"]
 Halo, Perkenalkan saya Abi Permana, saya salah satu pengurus dari Komunitas Paguyuban Linux Solo. Pada tulisan ini saya akan menceritakan beberapa pengalaman saya sebagai panitia acara LOUCA2023. LOUCA2023 singkatan dari LibreOffice Conf. Asia x UbuCon Asia 2023 diselenggarakan secara kolaboratif oleh Komunitas LibreOffice Indonesia (LiberOffice ID), Ubuntu Indonesia (Ubuntu ID), Paguyuban Linux Solo, dan bekerja sama dengan Universitas Sebelas Maret sebagai penyedia tempat acara.
 
 ## Perjalanan Awal
-Perjalanan saya sebagai panitia lokal dimulai ketika saya pertama kali diundang Rania Amina untuk pertemuan daring bersama pengurus LibreOffice Indonesia dan Ubuntu Indonesia. Dalam pertemuan tersebut disampaikan bahwa akan ada acara gabungan dari LibreOffice Conf. Asia dan UbuCon Asia di Indonesia, disampaikan juga bahwa Kota Surakarta menjadi salah satu kandidat kuat untuk menyelenggarakan acara tersebut. Saya dan teman - teman komunitas Paguyuban Linux Solo merasa tertantang dan bersemangat agar acara tersebut dapat terselenggara di Kota Surakarta. Saya pada waktu itu sebagai ketua komunitas Paguyuban Linux Solo ditunjuk sebagai Koordinator Panitia Lokal. Singkat cerita, kami berhasil bekerja sama dengan Universitas Sebelas Maret untuk menyelenggarakan acara LibreOffice Conf. Asia dan UbuCon Asia di Kota Surakarta. Saat itu belum ada istilah LOUCA2023, baru setelah beberapa kali rapat dengan panitia pusat yang terdiri dari pengurus LibreOffice Indonesia dan Ubuntu Indonesia istilah LOUCA2023 kita sepakati.
+Perjalanan saya sebagai panitia lokal dimulai ketika saya dan teman - teman Komunitas Paguyuban Linux Solo pertama kali diundang Rania Amina untuk pertemuan daring bersama pengurus LibreOffice Indonesia dan Ubuntu Indonesia. Dalam pertemuan tersebut disampaikan bahwa akan ada acara gabungan dari LibreOffice Conf. Asia dan UbuCon Asia di Indonesia, disampaikan juga bahwa Kota Surakarta menjadi salah satu kandidat kuat untuk menyelenggarakan acara tersebut. Saya dan teman - teman komunitas Paguyuban Linux Solo merasa tertantang dan bersemangat agar acara tersebut dapat terselenggara di Kota Surakarta. Saya pada waktu itu sebagai ketua komunitas Paguyuban Linux Solo ditunjuk sebagai Koordinator Panitia Lokal. Singkat cerita, kami berhasil bekerja sama dengan Universitas Sebelas Maret untuk menyelenggarakan acara LibreOffice Conf. Asia dan UbuCon Asia 2023 di Kota Surakarta. Saat itu belum ada istilah LOUCA2023, baru setelah beberapa kali rapat dengan panitia pusat yang terdiri dari pengurus LibreOffice Indonesia dan Ubuntu Indonesia istilah LOUCA2023 kita sepakati.
 
 ## Tantangan
 
@@ -58,12 +58,12 @@ Alhamdulillah acara LOUCA2023 secara keseluruhan berjalan dengan baik, lancar, d
 Dari pengalaman ini, saya belajar bahwa kerja sama tim dan komunikasi adalah kunci keberhasilan dalam menyelenggarakan acara besar seperti LOUCA23. Saya juga menyadari pentingnya mengatasi rintangan dengan tekad dan semangat yang tinggi.
 
 ## Kesimpulan
-Menjadi koordinator panitia lokal LOUCA2023 menjadi salah satu pengalaman yang paling berharga dalam hidup saya. Saya berharap bahwa acara ini akan menginspirasi lebih banyak orang untuk berkontribusi dalam komunitas open source. 
+Menjadi koordinator panitia lokal LOUCA2023 menjadi salah satu pengalaman yang paling berharga dalam hidup saya. Saya berharap acara ini dapat menginspirasi lebih banyak orang untuk berkontribusi dalam komunitas open source. 
 
 ## Penutup
 Saya ucapkan terima kasih sebesar besarnya kepada seluruh panitia atas bantuan dan dukungannya, kepada beberapa teman saya yang banyak memberikan saran dan inspirasi terkait persiapan dan pelaksanaan acara, dan tidak lupa saya ucapkan terima kasih juga untuk Kelompok Linux Arek Suroboyo (KLAS), dan UKM Linux Nurul Fikri yang banyak membantu selama acara.
 
-Saya mohon maaf apabila ada kata-kata yang kurang berkenan dengan tulisan saya.
+Saya mohon maaf apabila ada kata-kata yang kurang berkenan dalam tulisan saya.
 
 ## Sumber
 * Website LOUCA2023 [https://louca.id](https://louca.id)
