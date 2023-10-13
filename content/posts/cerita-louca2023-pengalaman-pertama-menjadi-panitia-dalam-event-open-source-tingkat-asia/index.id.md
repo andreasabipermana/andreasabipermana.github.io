@@ -46,6 +46,7 @@ Pada hari sabtu - minggu tanggal 7-8 Oktober 2023 Malam ada Dinner untuk Panitia
 
 Berikut ini beberapa foto saat One Day Tour Keliling Kota Surakarta.
 
+![Foto One Day Tour](one-day-tour-2.webp "Foto One Day Tour")
 ![Foto One Day Tour](one-day-tour.webp "Foto One Day Tour")
 
 
