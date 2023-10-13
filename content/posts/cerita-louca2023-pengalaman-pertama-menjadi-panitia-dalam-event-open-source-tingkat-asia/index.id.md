@@ -34,7 +34,7 @@ Kunci kesuksesan LOUCA 2023 adalah adanya kolaborasi erat dengan komunitas Libre
 
 
 ## Highlights Acara
-Acara Utama LOUCA2023 yaoti terdiri dari 2 Hari pada hari sabtu - minggu tanggal 7-8 Oktober 2023 dan ada acara tambahan di hari senin tanggal 9 Oktober 2023 yaitu One Day Tour keliling Kota Surakarta untuk Panitia dan Pembicara. Berikut ini beberapa foto saat acara LOUCA2023 berlangsung
+Acara Utama LOUCA2023 yaitu terdiri dari 2 Hari pada hari sabtu - minggu tanggal 7-8 Oktober 2023 dan ada acara tambahan di hari senin tanggal 9 Oktober 2023 yaitu One Day Tour keliling Kota Surakarta untuk Panitia dan Pembicara. Berikut ini beberapa foto saat acara LOUCA2023 berlangsung
 
 
 Pada hari sabtu - minggu tanggal 7-8 Oktober 2023 Malam ada Dinner untuk Panitia dan Pembicara. Berikut ini beberapa foto saat dinner.
@@ -52,7 +52,7 @@ Dari pengalaman ini, saya belajar bahwa kerja sama tim dan komunikasi adalah kun
 Menjadi koordinator panitia lokal LOUCA2023 menjadi salah satu pengalaman yang paling berharga dalam hidup saya. Saya berharap bahwa acara ini akan menginspirasi lebih banyak orang untuk berkontribusi dalam komunitas open source. 
 
 ## Penutup
-Saya ucapkan terima kasih sebesar besarnya kepada seluruh teman teman panitia yang telah banyak membantu, kepada beberapa teman saya yang banyak memberikan saran dan inspirasi terkait persiapan dan pelaksanaan acara secara pribadi, dan tidak lupa saya ucapkan terima kasih juga untuk Kelompok Linux Arek Suroboyo (KLAS), dan UKM Linux Nurul Fikri yang banyak membantu selama acara.
+Saya ucapkan terima kasih sebesar besarnya kepada seluruh panitia atas bantuan dan dukungannya, kepada beberapa teman saya yang banyak memberikan saran dan inspirasi terkait persiapan dan pelaksanaan acara, dan tidak lupa saya ucapkan terima kasih juga untuk Kelompok Linux Arek Suroboyo (KLAS), dan UKM Linux Nurul Fikri yang banyak membantu selama acara.
 
 Saya mohon maaf apabila ada kata-kata yang kurang berkenan dengan tulisan saya.
 
