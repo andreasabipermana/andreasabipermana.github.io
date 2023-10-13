@@ -3,7 +3,7 @@ title: "Cerita LOUCA2023: Pengalaman Pertama menjadi Panitia dalam Event Open So
 date: 2023-10-13T13:41:53+07:00
 resources:
 - name: "featured-image"
-  src: "featured-image.png"
+  src: "featured-image.webp"
 tags: ["Louca2023", "Pengalaman"]
 categories: ["Cerita"]
 ---
@@ -17,11 +17,17 @@ Saat itu belum ada istilah LOUCA2023, baru setelah beberapa kali rapat dengan pa
 
 ## Tantangan
 
-"Tidak ada acara tanpa kendala", kata-kata dari teman dan mentor saya yang dulu pernah menyelenggarakan Event di Kota Solo. Selama mempersiapkan LOUCA 2023, saya menghadapi banyak tantangan, termasuk masalah logistik, SDM, perizinan, dan koordinasi dengan dengan pihat terkait. Namun dengan adanya tantangan - tantangan tersebut membuat saya dan teman teman komunitas tetap solid dan saling membantu satu sama lain agar acara terlaksanana dengan baik. Bagi saya, tantangan - tantangan tersebut menjadi kesempatan yang berharga untuk tumbuh berkembang dan berkolaborasi.
+Selama mempersiapkan LOUCA 2023, saya menghadapi banyak tantangan, termasuk masalah logistik, SDM, perizinan, dan koordinasi dengan dengan pihat terkait. Namun dengan adanya tantangan - tantangan tersebut membuat saya dan teman teman komunitas tetap solid dan saling membantu satu sama lain agar acara terlaksanana dengan baik. Bagi saya, tantangan - tantangan tersebut menjadi kesempatan yang berharga untuk tumbuh berkembang dan berkolaborasi.
 
 Salah satu tantangan terbesar saya dalam acara ini adalah sulitnya koordinasi dengan Himpunan Mahasiswa dan Kampus. Selain itu, saya dan teman - teman juga menghadapi kendala terkait banyaknya tugas yang harus selesai sebelum hari-H acara dan beberapa masalah yang muncul di lapangan ketika pelaksanaan acara LOUCA2023. Namun, semua kesulitan ini dapat segera diatasi dengan dukungan teman-teman panitia dan volunteer yang saling membantu satu sama lain.
 
+{{< admonition note "Quotes" >}}
+"Tidak ada acara tanpa kendala" ~ kata-kata dari teman dan mentor saya yang dulu pernah menyelenggarakan Event di Kota Solo.
+{{< /admonition >}}
+
 ## Kolaborasi dan Komunitas
+
+
 
 Kunci kesuksesan LOUCA 2023 adalah adanya kolaborasi erat dengan komunitas LibreOffice Indonesia, Ubuntu Indonesia, dan Paguyuban Linux Solo. Kami bekerja sama untuk menyusun acara dan topik yang menarik, mengundang pembicara terkenal, dan menyediakan peluang bagi para peserta untuk terlibat aktif dalam acara. Kami juga mendapat dukungan luar biasa dari komunitas linux lokal lainnya yang bersedia memberikan waktu dan tenaga untuk memastikan kesuksesan acara ini. Kolaborasi dengan mereka adalah salah satu aspek terbaik dari pengalaman saya ini.
 
@@ -30,7 +36,7 @@ Kunci kesuksesan LOUCA 2023 adalah adanya kolaborasi erat dengan komunitas Libre
 Acara Utama LOUCA2023 yaoti terdiri dari 2 Hari pada hari sabtu - minggu tanggal 7-8 Oktober 2023 dan ada acara tambahan di hari senin tanggal 9 Oktober 2023 yaitu One Day Tour keliling Kota Surakarta untuk Panitia dan Pembicara. Berikut ini beberapa foto saat acara LOUCA2023 berlangsung
 
 
-pada hari sabtu - minggu tanggal 7-8 Oktober 2023 Malam ada Dinner untuk Panitia dan Pembicara. Berikut ini beberapa foto saat dinner.
+Pada hari sabtu - minggu tanggal 7-8 Oktober 2023 Malam ada Dinner untuk Panitia dan Pembicara. Berikut ini beberapa foto saat dinner.
 
 
 Berikut ini beberapa foto saat One Day Tour Keliling Kota Surakarta.
