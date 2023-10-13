@@ -31,7 +31,12 @@ Kunci kesuksesan LOUCA 2023 adalah adanya kolaborasi erat dengan komunitas Libre
 ## Highlights Acara
 Acara Utama LOUCA2023 yaitu terdiri dari 2 Hari pada hari sabtu - minggu tanggal 7-8 Oktober 2023 dan ada acara tambahan di hari senin tanggal 9 Oktober 2023 yaitu One Day Tour keliling Kota Surakarta untuk Panitia dan Pembicara. Berikut ini beberapa foto saat acara LOUCA2023 berlangsung
 
+![Salah Satu Pemateri Track LibreOffice](track-libreoffice.webp "Salah Satu Pemateri Track LibreOffice")
+![Salah Satu Pemateri Track Ubuntu](track-ubuntu.webp "Salah Satu Pemateri Track Ubuntu")
+![Peserta](peserta.webp "Peserta")
+![Foto Salah Satu Sesi Kelas Paralel](kelas-paralel.webp "Foto Salah Satu Sesi Kelas Paralel")
 ![Sesi Panel Diskusi Hari ke 2](sesi-panel-diskusi.webp "Sesi Panel Diskusi Hari ke 2")
+![Foto Bersama Peserta LOUCA23](foto-bersama.webp "Foto Bersama Peserta LOUCA23")
 
 
 Pada hari sabtu - minggu tanggal 7-8 Oktober 2023 Malam ada Dinner untuk Panitia dan Pembicara. Berikut ini beberapa foto saat dinner.
@@ -47,7 +52,9 @@ Berikut ini beberapa foto saat One Day Tour Keliling Kota Surakarta.
 Alhamdulillah acara LOUCA2023 secara keseluruhan berjalan dengan baik, lancar, dan sukses. Materi-materi yang disampaikan oleh para pembicara benar-benar menginspirasi.
 
 ## Pelajaran yang Didapat
-Dari pengalaman ini, saya belajar bahwa kerja sama tim dan komunikasi adalah kunci keberhasilan dalam menyelenggarakan acara besar semacam LOUCA. Saya juga menyadari pentingnya mengatasi rintangan dengan tekad dan semangat yang tinggi.
+![Local Heroes](local-heroes.webp "Local Heroes")
+
+Dari pengalaman ini, saya belajar bahwa kerja sama tim dan komunikasi adalah kunci keberhasilan dalam menyelenggarakan acara besar seperti LOUCA23. Saya juga menyadari pentingnya mengatasi rintangan dengan tekad dan semangat yang tinggi.
 
 ## Kesimpulan
 Menjadi koordinator panitia lokal LOUCA2023 menjadi salah satu pengalaman yang paling berharga dalam hidup saya. Saya berharap bahwa acara ini akan menginspirasi lebih banyak orang untuk berkontribusi dalam komunitas open source. 
