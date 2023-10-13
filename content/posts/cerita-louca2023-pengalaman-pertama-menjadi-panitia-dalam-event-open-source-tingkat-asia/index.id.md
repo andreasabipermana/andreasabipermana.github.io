@@ -3,7 +3,7 @@ title: "Cerita LOUCA2023: Pengalaman Pertama menjadi Panitia dalam Event Open So
 date: 2023-10-13T13:41:53+07:00
 resources:
 - name: "featured-image"
-  src: "featured-image.webp"
+  src: "featured-image.png"
 tags: ["Louca2023", "Pengalaman"]
 categories: ["Cerita"]
 ---
@@ -25,7 +25,7 @@ Selama mempersiapkan LOUCA2023, saya menghadapi banyak tantangan, termasuk masal
 
 ![Foto Bersama Panitia dan Volunteer LOUCA23](komunitas.webp "Foto Bersama Panitia dan Volunteer LOUCA23")
 
-Kunci kesuksesan LOUCA 2023 adalah adanya kolaborasi erat dengan komunitas LibreOffice Indonesia, Ubuntu Indonesia, dan Paguyuban Linux Solo. Kami bekerja sama untuk menyusun acara dan topik yang menarik, mengundang pembicara terkenal, dan menyediakan peluang bagi para peserta untuk terlibat aktif dalam acara. Kami juga mendapat dukungan luar biasa dari komunitas linux lokal lainnya yang bersedia memberikan waktu dan tenaga untuk memastikan kesuksesan acara ini. Kolaborasi dengan mereka adalah salah satu aspek terbaik dari pengalaman saya ini.
+Kunci kesuksesan LOUCA 2023 adalah adanya kolaborasi erat dengan komunitas LibreOffice Indonesia, Ubuntu Indonesia, dan Paguyuban Linux Solo. Kami bekerja sama untuk menyusun acara dan topik yang menarik, mengundang pembicara terkenal, dan menyediakan peluang bagi para peserta untuk terlibat aktif dalam acara. Kami juga mendapat dukungan luar biasa dari komunitas lokal lainnya yang bersedia memberikan waktu dan tenaga untuk memastikan kesuksesan acara ini. Kolaborasi dengan mereka adalah salah satu aspek terbaik dari pengalaman saya ini.
 
 
 ## Highlights Acara
