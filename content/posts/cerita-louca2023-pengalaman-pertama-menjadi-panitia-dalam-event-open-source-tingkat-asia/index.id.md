@@ -61,7 +61,7 @@ Dari pengalaman ini, saya belajar bahwa kerja sama tim dan komunikasi adalah kun
 Menjadi koordinator panitia lokal LOUCA2023 menjadi salah satu pengalaman yang paling berharga dalam hidup saya. Saya berharap acara ini dapat menginspirasi lebih banyak orang untuk berkontribusi dalam komunitas open source. 
 
 ## Penutup
-Saya ucapkan terima kasih sebesar besarnya kepada seluruh panitia atas bantuan dan dukungannya, kepada beberapa teman saya yang banyak memberikan saran dan inspirasi terkait persiapan dan pelaksanaan acara, dan tidak lupa saya ucapkan terima kasih juga untuk Kelompok Linux Arek Suroboyo (KLAS), dan UKM Linux Nurul Fikri yang banyak membantu selama acara.
+Saya ucapkan terima kasih sebesar besarnya kepada seluruh panitia atas bantuan dan dukungannya, kepada beberapa teman saya yang banyak memberikan saran dan inspirasi terkait persiapan dan pelaksanaan acara, dan tidak lupa saya ucapkan terima kasih juga untuk Kelompok Linux Arek Suroboyo (KLAS), UKM Linux Nurul Fikri, dan Himpunana Mahasiswa PTIK UNS (Mikroptik) yang banyak membantu selama acara.
 
 Saya mohon maaf apabila ada kata-kata yang kurang berkenan dalam tulisan saya.
 
