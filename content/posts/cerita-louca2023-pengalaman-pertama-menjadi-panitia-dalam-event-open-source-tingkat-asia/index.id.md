@@ -17,10 +17,6 @@ Perjalanan saya sebagai panitia lokal dimulai ketika saya dan teman - teman Komu
 
 Selama mempersiapkan LOUCA2023, saya menghadapi banyak tantangan, termasuk masalah logistik, perizinan, dan koordinasi dengan dengan pihat terkait. Namun dengan adanya tantangan - tantangan tersebut membuat saya dan teman teman komunitas tetap solid dan saling membantu satu sama lain agar acara terlaksanana dengan baik. Bagi saya, tantangan - tantangan tersebut menjadi kesempatan yang berharga untuk tumbuh berkembang dan berkolaborasi. Salah satu tantangan terbesar saya dalam acara ini adalah sulitnya koordinasi dengan Himpunan Mahasiswa dan Kampus. Selain itu, saya dan teman - teman juga menghadapi kendala terkait banyaknya tugas yang harus selesai sebelum hari-H acara dan beberapa masalah yang muncul di lapangan ketika pelaksanaan acara LOUCA2023. Namun, semua kesulitan ini dapat segera diatasi dengan dukungan teman-teman panitia dan volunteer yang saling membantu satu sama lain.
 
-{{< admonition note "Quotes" >}}
-"Tidak ada acara tanpa kendala" ~ kata-kata dari teman dan mentor saya yang dulu pernah menyelenggarakan Event di Kota Solo.
-{{< /admonition >}}
-
 ## Kolaborasi dan Komunitas
 
 ![Foto Bersama Panitia dan Volunteer LOUCA23](komunitas.webp "Foto Bersama Panitia dan Volunteer LOUCA23")
@@ -61,7 +57,7 @@ Dari pengalaman ini, saya belajar bahwa kerja sama tim dan komunikasi adalah kun
 Menjadi koordinator panitia lokal LOUCA2023 menjadi salah satu pengalaman yang paling berharga dalam hidup saya. Saya berharap acara ini dapat menginspirasi lebih banyak orang untuk berkontribusi dalam komunitas open source. 
 
 ## Penutup
-Saya ucapkan terima kasih sebesar besarnya kepada seluruh panitia atas bantuan dan dukungannya, kepada beberapa teman saya yang banyak memberikan saran dan inspirasi terkait persiapan dan pelaksanaan acara, dan tidak lupa saya ucapkan terima kasih juga untuk Kelompok Linux Arek Suroboyo (KLAS), UKM Linux Nurul Fikri, dan Himpunana Mahasiswa PTIK UNS (Mikroptik) yang banyak membantu selama acara.
+Saya ucapkan terima kasih sebesar besarnya kepada seluruh panitia atas bantuan dan dukungannya, kepada beberapa teman saya yang banyak memberikan saran dan inspirasi terkait persiapan dan pelaksanaan acara, dan tidak lupa saya ucapkan terima kasih juga untuk Kelompok Linux Arek Suroboyo (KLAS), UKM Linux Nurul Fikri, dan Himpunan Mahasiswa PTIK UNS (Mikroptik) yang banyak membantu selama acara.
 
 Saya mohon maaf apabila ada kata-kata yang kurang berkenan dalam tulisan saya.
 

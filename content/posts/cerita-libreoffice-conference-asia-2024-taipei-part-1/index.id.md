@@ -8,7 +8,7 @@ tags: ["libreconfasia0224", "coscup2024", "Pengalaman"]
 categories: ["Cerita"]
 ---
 
-LibreOfiice Conference Asia 2024 merupakan momen besar dalam hidup saya, ini adalah pengalaman saya pergi keluar negeri, dan mengisi acara di konferensi untuk pertama kalinya. Disini saya akan membagikan sedikit pengalaman saya. 
+LibreOfiice Conference Asia 2024 merupakan momen besar dalam hidup saya, ini adalah pengalaman saya pergi keluar negeri, dan mengisi acara di konferensi untuk pertama kalinya. Disini saya akan membagikan sedikit pengalaman saya selama menghadiri acara tersebut. 
 
 ## Cerita Awal
 Semua bermula pada bulan Mei 2024, saya dan beberapa orang di undang Franklin Weng dari [SLAT](https://slat.org/) selaku penyelenggara untuk menghadiri acara LibreOffice Conference Asia 2024 dan COSCUP 2024 yang akan diadakan di Taipei, Taiwan. Saya memutuskan untuk ikut dalam acara tersebut.
