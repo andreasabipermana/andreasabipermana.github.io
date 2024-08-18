@@ -62,7 +62,7 @@ Rombongan kami (anak – anak muda) berencana untuk mengunjungi beberapa tempat 
 ![BlueRider Art Gallery 1](bluerider-1.webp "BlueRider Art Gallery 1")
 ![BlueRider Art Gallery 2](bluerider-2.webp "BlueRider Art Gallery 2")
 
-Perjalanan selanjutnya kami menuju [Grand Mosque Taipei](https://maps.app.goo.gl/DtCdV1j9Ynght77z6), ternyata banyak orang orang indonesia yang solat jumat disana.
+Perjalanan selanjutnya kami menuju [Grand Mosque Taipei](https://maps.app.goo.gl/DtCdV1j9Ynght77z6), Masjidnya cukup besar, megah, ramai dan ternyata banyak orang orang indonesia yang solat jumat disana.
 
 ![Grand Mosque Taipei](mosque-taipei.webp "Grand Mosque Taipei")
 
@@ -71,11 +71,11 @@ Setelah itu kami menuju ke [Fuzhou Shan Park](https://maps.app.goo.gl/BBMCrGectj
 ![Fuzhou Shan Park 1](fuzhousan-park-1.webp "Fuzhou Shan Park")
 ![Foto Bersama](fuzhousan-park-2.webp "Fuzhou Shan Park")
 
-Setelah itu kami menyempatkan untuk mengunjungi salah satu toko mainan di pinggir jalan [Yifon Toys](https://maps.app.goo.gl/XYRbgh5v87ruqogf9). Saya sempat tertarik dengan salah satu Action Figure Digimon, akan tetapi setelah proses negoisasi cukup panjang saya gagal mendapatkannya :( ( Maaf saya nggak sempet memfoto action figurenya wkwkw ).
+Setelah itu kami menyempatkan untuk mengunjungi salah satu toko mainan di pinggir jalan [Yifon Toys](https://maps.app.goo.gl/XYRbgh5v87ruqogf9). Saya sempat tertarik dengan salah satu Action Figure Digimon, akan tetapi setelah proses tawar menawar cukup panjang saya gagal mendapatkannya :( ( Maaf saya nggak sempet memfoto action figurenya wkwkw ).
 
 ![Yifon Toys](yifon-toys.webp "Yifon Toys")
 
-Sebelum kembali ke Hotel kami mengujungi [Taiwan Insect Museum](https://maps.app.goo.gl/kKmkjWBSDtVwN7Ex8) untuk melihat koleksi serangga dan hewan lain yang ada disana.
+Sebelum kembali ke Hotel kami mengujungi [Taiwan Insect Museum](https://maps.app.goo.gl/kKmkjWBSDtVwN7Ex8) untuk melihat koleksi yang ada disana. Museum ini tidak hanya memiliki serangga saja, akan tetapi juga ada hewan hewan lainnya, seperti berbagai jenis reptil. 
 
 ![Taiwan Insect Museum](insect-museum.webp "Taiwan Insect Museum")
 
