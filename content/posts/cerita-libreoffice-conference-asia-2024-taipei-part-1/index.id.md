@@ -20,7 +20,9 @@ Singkat cerita saya mempersiapkan semua hal sebelum keberangkatan, seperti paspo
 ![Foto VISA](pembuatan-visa.webp "Foto VISA")
 
 ## Berangkat
-Pada 28 Juli saya berangkat ke Bogor dari Terminal Tirtonadi, Solo menuju ke Terminal Baranangsiang, Bogor. Rencananya saya akan singgah dulu di Kantor Nenggala sebelum berangkat bersama – sama ke Taipei. Pada 30 Juli malam, rombongan kami berangkat dari Stasiun Cilebut menuju ke Manggarai lalu naik ke Kereta bandara langsung menuju ke Soekarno-Hatta (CGK)
+Pada 28 Juli saya berangkat ke Bogor dari Terminal Tirtonadi, Solo menuju ke Terminal Baranangsiang, Bogor. Rencananya saya akan singgah dulu di Bogor sebelum berangkat bersama – sama ke Taipei. 
+
+Pada 30 Juli malam, rombongan kami berangkat dari Stasiun Cilebut menuju ke Manggarai lalu naik ke Kereta bandara langsung menuju ke Soekarno-Hatta (CGK)
 
 ![Foto naik KRL Bandara](berangkat-krl-bandara.webp "Foto naik KRL Bandara")
 
@@ -29,7 +31,6 @@ Setelah perjalanan pesawat yang cukup melelahkan kurang lebih 4-5jam akhirnya sa
 Sorenya saya bertemu dengan teman lama yang bekerja di Taiwan untuk jalan jalan dan mencari makan malam :) . Kami pergi ke [Raohe Night Market](https://maps.app.goo.gl/2Rh6EA8v9VVD2zyUA) menggunakan sepeda motor. Suasana Raohe Night Market cukup sepi karena saat itu hujan baru saja reda di Taipei.
 
 ![Foto Raohe Night Market 1](raohe-1.webp "Foto Raohe Night Market 1")
-![Foto Raohe Night Market 2](raohe-2.webp "Foto Raohe Night Market 2")
 
 
 ## Taipei Free Tour 
@@ -39,16 +40,16 @@ Bus membawa kami berkeliling melewati beberapa lokasi wisata dan bersejarah di k
 
 ![Foto Taipei SightSeeing Bus](taipei-seightseeing-bus.webp "Foto Taipei SightSeeing Bus")
 
+Saya baru tau ternyata ada juga BRI cabang Taipei :v.
+
+![Foto BRI Taipei](bri-taipei.webp "Foto BRI Taipei")
+
 ## Welcome Dinner Party
 
 Singkat cerita, pada sorenya saya dan teman teman menghadari acara Welcome dinner party bersama pengurus dari The Document Foundation, penyelenggara acara, dan sponsor LibreOffice Conference Asia 2024.
 
 ![Foto Welcome Party 1](welcome-party-1.webp "Foto Welcome Party 1")
 ![Foto Welcome Party 2](welcome-party-2.webp "Foto Welcome Party 2")
-
-Saya baru tau ternyata ada juga BRI cabang Taipei :v.
-
-![Foto BRI Taipei](bri-taipei.webp "Foto BRI Taipei")
 
 ## Day 1: Government Day
 
@@ -59,11 +60,6 @@ Rombongan kami (anak – anak muda) berencana untuk mengunjungi beberapa tempat 
 ![Foto BlueRider Art Gallery 1](bluerider-1.webp "Foto BlueRider Art Gallery 1")
 ![Foto BlueRider Art Gallery 2](bluerider-2.webp "Foto BlueRider Art Gallery 2")
 
-  {{<img src="bluerider-1.webp" alt="Foto BlueRider Art Gallery 1" width="30%"/>}}
-  {{<img src="bluerider-2.webp" alt="Foto BlueRider Art Gallery 2" width="30%"/>}}
-  {{<p><b>Foto BlueRider Art Gallery</b></p>}}
-
-
 Perjalanan selanjutnya kami menuju [Grand Mosque Taipei](https://maps.app.goo.gl/DtCdV1j9Ynght77z6), ternyata banyak orang orang indonesia yang solat jumat disana.
 
 ![Foto Grand Mosque Taipei](mosque-taipei.webp "Foto Grand Mosque Taipei")
@@ -71,10 +67,7 @@ Perjalanan selanjutnya kami menuju [Grand Mosque Taipei](https://maps.app.goo.gl
 Setelah itu kami menuju ke [Fuzhou Shan Park](https://maps.app.goo.gl/BBMCrGectjKsXx6SA) untuk melihat view kota Taipei dari bukit. Meskipun cukup melelahkan untuk naik tangga untuk naik, akan tetapi semua terbayar setelah sampai disana :)
 
 
-![Foto Fuzhou Shan Park 1](fuzhousan-park-1.webp "Foto Fuzhou Shan Park 1")
-![Foto Fuzhou Shan Park 2](fuzhousan-park-2.webp "Foto Fuzhou Shan Park 2")
-
-
+![Foto Fuzhou Shan Park 1](fuzhousan-park-1.webp "Foto Fuzhou Shan Park")
 
 Setelah itu kami menyempatkan untuk mengunjungi salah satu toko mainan di pinggir jalan [Yifon Toys](https://maps.app.goo.gl/XYRbgh5v87ruqogf9). Saya sempat tertarik dengan salah satu Action Figure Digimon, akan tetapi setelah proses negoisasi cukup panjang saya gagal mendapatkannya :( (Maaf saya nggak sempet memfoto action figurenya wkwkw).
 
@@ -82,5 +75,3 @@ Sebelum kembali ke Hotel kami mengujungi [Taiwan Insect Museum](https://maps.app
 
 Malam harinya kami diajak jalan jalan penyelenggara acara untuk pergi ke [Raohe Night Market](https://maps.app.goo.gl/2Rh6EA8v9VVD2zyUA). Suasana night market kali ini sangat ramai.
 
-![Foto Raohe Night Market 3](raohe-3.webp "Foto Raohe Night Market 3")
-![Foto Raohe Night Market 4](raohe-4.webp "Foto Raohe Night Market 4")
