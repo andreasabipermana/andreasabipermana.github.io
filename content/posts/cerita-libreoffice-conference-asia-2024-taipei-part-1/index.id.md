@@ -11,16 +11,19 @@ categories: ["Cerita"]
 LibreOfiice Conference Asia 2024 merupakan momen besar dalam hidup saya, ini adalah pengalaman saya pergi keluar negeri, dan mengisi acara di konferensi untuk pertama kalinya. Disini saya akan membagikan sedikit pengalaman saya. 
 
 ## Cerita Awal
-Semua bermula ketika, saya dan beberapa orang di undang Franklin Weng untuk menghadiri acara tersebut pada Mei, 2024. Saya memutuskan untuk ikut dalam acara tersebut.
+Semua bermula pada bulan Mei 2024, saya dan beberapa orang di undang Franklin Weng dari [SLAT](https://slat.org/) selaku penyelenggara untuk menghadiri acara LibreOffice Conference Asia 2024 dan COSCUP 2024 yang akan diadakan di Taipei, Taiwan. Saya memutuskan untuk ikut dalam acara tersebut.
 
 ![Invitation Letter](invitation-letter.webp "Invitation Letter")
 
-Singkat cerita saya mempersiapkan semua hal sebelum keberangkatan, seperti paspor, visa, tiket menuju ke Bogor dan lain sebagainya.
+Singkat cerita saya dan teman teman lainnya mulai mempersiapkan semua hal sebelum keberangkatan, seperti uang saku, paspor, visa, tiket pesawat Jakarta Taipei PP, tiket menuju ke Bogor dan lain sebagainya.
 
 ![VISA](pembuatan-visa.webp "VISA")
 
 ## Berangkat
 Pada 28 Juli saya berangkat ke Bogor dari Terminal Tirtonadi, Solo menuju ke Terminal Baranangsiang, Bogor. Rencananya saya akan singgah dulu di Bogor sebelum berangkat bersama – sama ke Taipei. 
+
+![Solo - Bogor](bis-solo.webp "Solo - Bogor")
+
 
 Pada 30 Juli malam, rombongan kami berangkat dari Stasiun Cilebut menuju ke Manggarai lalu naik ke Kereta bandara langsung menuju ke Soekarno-Hatta (CGK)
 
@@ -45,7 +48,7 @@ Saya baru tau ternyata ada juga BRI cabang Taipei :v.
 
 ## Welcome Dinner Party
 
-Singkat cerita, pada sorenya saya dan teman teman menghadari acara Welcome dinner party bersama pengurus dari The Document Foundation, penyelenggara acara, dan sponsor LibreOffice Conference Asia 2024.
+Singkat cerita, pada sorenya saya dan teman teman menghadari acara Welcome dinner party bersama pengurus dari The Document Foundation, penyelenggara acara, dan sponsor LibreOffice Conference Asia 2024. 
 
 ![Welcome Party 1](welcome-party-1.webp "Welcome Party 1")
 ![Welcome Party 2](welcome-party-2.webp "Welcome Party 2")
@@ -63,12 +66,12 @@ Perjalanan selanjutnya kami menuju [Grand Mosque Taipei](https://maps.app.goo.gl
 
 ![Grand Mosque Taipei](mosque-taipei.webp "Grand Mosque Taipei")
 
-Setelah itu kami menuju ke [Fuzhou Shan Park](https://maps.app.goo.gl/BBMCrGectjKsXx6SA) untuk melihat view kota Taipei dari bukit. Meskipun cukup melelahkan untuk naik tangga untuk naik, akan tetapi semua terbayar setelah sampai disana :)
+Setelah itu kami menuju ke [Fuzhou Shan Park](https://maps.app.goo.gl/BBMCrGectjKsXx6SA) untuk melihat view kota Taipei dari bukit. Meskipun cukup melelahkan untuk naik tangga keatas, akan tetapi semua terbayar setelah sampai disana :)
 
 ![Fuzhou Shan Park 1](fuzhousan-park-1.webp "Fuzhou Shan Park")
 ![Foto Bersama](fuzhousan-park-2.webp "Fuzhou Shan Park")
 
-Setelah itu kami menyempatkan untuk mengunjungi salah satu toko mainan di pinggir jalan [Yifon Toys](https://maps.app.goo.gl/XYRbgh5v87ruqogf9). Saya sempat tertarik dengan salah satu Action Figure Digimon, akan tetapi setelah proses negoisasi cukup panjang saya gagal mendapatkannya :( (Maaf saya nggak sempet memaction figurenya wkwkw).
+Setelah itu kami menyempatkan untuk mengunjungi salah satu toko mainan di pinggir jalan [Yifon Toys](https://maps.app.goo.gl/XYRbgh5v87ruqogf9). Saya sempat tertarik dengan salah satu Action Figure Digimon, akan tetapi setelah proses negoisasi cukup panjang saya gagal mendapatkannya :( ( Maaf saya nggak sempet memfoto action figurenya wkwkw ).
 
 ![Yifon Toys](yifon-toys.webp "Yifon Toys")
 
