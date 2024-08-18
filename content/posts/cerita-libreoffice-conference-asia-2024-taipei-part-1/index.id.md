@@ -32,7 +32,6 @@ Sorenya saya bertemu dengan teman lama yang bekerja di Taiwan untuk jalan jalan 
 
 ![Foto Raohe Night Market 1](raohe-1.webp "Foto Raohe Night Market 1")
 
-
 ## Taipei Free Tour 
 
 Pada hari berikutnya saya dan teman teman jalan jalan keliling Kota menaiki Taipei SightSeeing Bus.
@@ -66,7 +65,6 @@ Perjalanan selanjutnya kami menuju [Grand Mosque Taipei](https://maps.app.goo.gl
 
 Setelah itu kami menuju ke [Fuzhou Shan Park](https://maps.app.goo.gl/BBMCrGectjKsXx6SA) untuk melihat view kota Taipei dari bukit. Meskipun cukup melelahkan untuk naik tangga untuk naik, akan tetapi semua terbayar setelah sampai disana :)
 
-
 ![Foto Fuzhou Shan Park 1](fuzhousan-park-1.webp "Foto Fuzhou Shan Park")
 
 Setelah itu kami menyempatkan untuk mengunjungi salah satu toko mainan di pinggir jalan [Yifon Toys](https://maps.app.goo.gl/XYRbgh5v87ruqogf9). Saya sempat tertarik dengan salah satu Action Figure Digimon, akan tetapi setelah proses negoisasi cukup panjang saya gagal mendapatkannya :( (Maaf saya nggak sempet memfoto action figurenya wkwkw).
@@ -75,3 +73,8 @@ Sebelum kembali ke Hotel kami mengujungi [Taiwan Insect Museum](https://maps.app
 
 Malam harinya kami diajak jalan jalan penyelenggara acara untuk pergi ke [Raohe Night Market](https://maps.app.goo.gl/2Rh6EA8v9VVD2zyUA). Suasana night market kali ini sangat ramai.
 
+![Foto Raohe Night Market 2](raohe-2.webp "Foto Raohe Night Market 2")
+
+## Lanjut Part 2
+
+Mungkin sampai disini dulu ya ceritanya untuk part 1, lanjut di part 2 yaaa :)
