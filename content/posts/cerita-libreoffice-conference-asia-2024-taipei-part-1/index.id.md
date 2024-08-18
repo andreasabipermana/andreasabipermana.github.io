@@ -59,11 +59,9 @@ Rombongan kami (anak – anak muda) berencana untuk mengunjungi beberapa tempat 
 ![Foto BlueRider Art Gallery 1](bluerider-1.webp "Foto BlueRider Art Gallery 1")
 ![Foto BlueRider Art Gallery 2](bluerider-2.webp "Foto BlueRider Art Gallery 2")
 
-{{<div align="center">}}
-  {{<img src="raohe-1.webp" alt="Foto Raohe Night Market 1" width="300"/>}}
-  {{<img src="raohe-2.webp" alt="Foto Raohe Night Market 2" width="300"/>}}
-  {{<p><b>Foto Raohe Night Market</b></p>}}
-{{</div>}}
+  {{<img src="bluerider-1.webp" alt="Foto BlueRider Art Gallery 1" width="30%"/>}}
+  {{<img src="bluerider-2.webp" alt="Foto BlueRider Art Gallery 2" width="30%"/>}}
+  {{<p><b>Foto BlueRider Art Gallery</b></p>}}
 
 
 Perjalanan selanjutnya kami menuju [Grand Mosque Taipei](https://maps.app.goo.gl/DtCdV1j9Ynght77z6), ternyata banyak orang orang indonesia yang solat jumat disana.
