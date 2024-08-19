@@ -17,13 +17,16 @@ Semua bermula pada bulan Mei 2024, saya dan beberapa orang di undang Franklin We
 
 Singkat cerita saya dan teman teman lainnya mulai mempersiapkan semua hal sebelum keberangkatan, seperti uang saku, paspor, visa, tiket pesawat Jakarta Taipei PP, tiket menuju ke Bogor dan lain sebagainya.
 
+Saya membuat Passpor di kantor Imigrasi Solo baru Sukoharjo dengan menggunakan pendaftaran online melalui M-Paspor. Beberapa hari sebelum hari kedatangan saya, PDN diserang oleh hacker sehingga data saya di aplikasi hilang, Untungnya file PDF bukti pendaftaran masih aman di laptop saya sehingga masih bisa melanjutkan proses pembuatan passpor, kalo file PDFnya hilang pasti harus buat lagi wkwkwkw. Alhamdulillah pembuatan passpor berjalan lancar dalam 4 hari kerja sudah bisa saya ambil.
+
+Pembuatan VISA Taiwan saya lakukan dengan cara mandiri, yaitu dengan cara langsung datang ke kantor TETO Surabaya. VISA Taiwan membutuhkan persyaratan dokumen cukup banyak dan memakan waktu. Proses pembuatan VISA di TETO Surabaya memakan waktu selama 4 hari kerja. Setelah kurang lebih total 2 minggu untuk pembuatan VISA, Alhamdulillah pengajuan saya di setujui dan semua berjalan lancar tanpa kendala. Visa aman waktunya order tiket dan lain lain : ). 
+
 ![VISA](pembuatan-visa.webp "VISA")
 
 ## Berangkat
 Pada 28 Juli saya berangkat ke Bogor dari Terminal Tirtonadi, Solo menuju ke Terminal Baranangsiang, Bogor. Rencananya saya akan singgah dulu di Bogor sebelum berangkat bersama – sama ke Taipei. 
 
 ![Solo - Bogor](bis-solo.webp "Solo - Bogor")
-
 
 Pada 30 Juli malam, rombongan kami berangkat dari Stasiun Cilebut menuju ke Manggarai lalu naik ke Kereta bandara langsung menuju ke Soekarno-Hatta (CGK)
 
