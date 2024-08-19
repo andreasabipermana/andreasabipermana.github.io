@@ -29,7 +29,7 @@ Pada 30 Juli malam, rombongan kami berangkat dari Stasiun Cilebut menuju ke Mang
 
 ![KRL Bandara](berangkat-krl-bandara.webp "KRL Bandara")
 
-Setelah perjalanan pesawat yang cukup melelahkan kurang lebih 4-5jam akhirnya saya sampai di Bandara Internasional Hongkong untuk transit selama 3 jam, lalu terbang ke Bandara Taoyuan. Akhirnya setelah perjalanan kurang lebih 10 jam sampai di Taiwan.
+Setelah perjalanan pesawat yang cukup melelahkan kurang lebih 4-5 jam akhirnya saya sampai di Bandara Internasional Hongkong untuk transit selama 3 jam, lalu terbang ke Bandara Taoyuan. Akhirnya setelah perjalanan kurang lebih 10 jam sampai di Taiwan.
 
 Sorenya saya bertemu dengan teman lama yang bekerja di Taiwan untuk jalan jalan dan mencari makan malam :) . Kami pergi ke [Raohe Night Market](https://maps.app.goo.gl/2Rh6EA8v9VVD2zyUA) menggunakan sepeda motor. Suasana Raohe Night Market cukup sepi karena saat itu hujan baru saja reda di Taipei.
 
@@ -69,7 +69,7 @@ Setelah itu kami menuju ke [Fuzhou Shan Park](https://maps.app.goo.gl/BBMCrGectj
 ![Fuzhou Shan Park 1](fuzhousan-park-1.webp "Fuzhou Shan Park")
 ![Foto Bersama](fuzhousan-park-2.webp "Fuzhou Shan Park")
 
-Setelah itu kami menyempatkan untuk mengunjungi salah satu toko mainan di pinggir jalan [Yifon Toys](https://maps.app.goo.gl/XYRbgh5v87ruqogf9). Saya sempat tertarik dengan salah satu Action Figure Digimon, akan tetapi setelah proses tawar menawar cukup panjang saya gagal mendapatkannya :( ( Maaf saya nggak sempet memfoto action figurenya wkwkw ).
+Setelah itu kami menyempatkan untuk mengunjungi salah satu toko mainan di pinggir jalan [Yifon Toys](https://maps.app.goo.gl/XYRbgh5v87ruqogf9). Saya sempat tertarik dengan salah satu Action Figure Digimon, akan tetapi setelah proses tawar menawar cukup panjang saya gagal mendapatkannya :( . Oiya, maaf saya nggak sempat memfoto action figurenya wkwkw ).
 
 ![Yifon Toys](yifon-toys.webp "Yifon Toys")
 
