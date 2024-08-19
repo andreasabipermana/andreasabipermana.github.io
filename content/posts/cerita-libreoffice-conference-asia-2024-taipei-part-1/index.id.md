@@ -37,12 +37,9 @@ Sorenya saya bertemu dengan teman lama yang bekerja di Taiwan untuk jalan jalan 
 
 ## Taipei Free Tour 
 
-Pada hari berikutnya saya dan teman teman jalan jalan keliling Kota menaiki Taipei SightSeeing Bus.
-Bus membawa kami berkeliling melewati beberapa lokasi wisata dan bersejarah di kota Taipei.
+Pada hari berikutnya saya dan teman teman jalan jalan keliling Kota menaiki Taipei SightSeeing Double Decker Bus. Bus membawa kami berkeliling melewati beberapa lokasi wisata dan bersejarah di kota Taipei.
 
 ![Taipei SightSeeing Bus](taipei-seightseeing-bus.webp "Taipei SightSeeing Bus")
-
-
 
 ## Welcome Dinner Party
 
