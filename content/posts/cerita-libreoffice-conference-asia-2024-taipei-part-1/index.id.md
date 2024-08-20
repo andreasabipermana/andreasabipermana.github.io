@@ -49,7 +49,7 @@ Pada hari berikutnya saya dan teman teman jalan jalan keliling Kota menaiki Taip
 Pada sorenya saya dan teman teman menghadari acara Welcome dinner party bersama pengurus dari The Document Foundation, penyelenggara acara, dan sponsor LibreOffice Conference Asia 2024. Kami berjalan kaki dari hotel menuju salah satu restoran jepang di sana. Ditengah jalan kami melewati sebuah kantor bank yang tidak asing ternyata kantor bank BRI, saya baru tau ternyata ada juga BRI cabang Taipei :v.
 ![BRI Taipei](bri-taipei.webp "BRI Taipei")
 
-Setelah sampai di restoran, acara welcome party dimulai dengan pembukaan dari Franklin Weng, dilanjut dengan perkenalan dari masing masing tamu dan dimulailah sesi makan - makan :) . Oiya di Taiwan alat makan utamanya adalah sumpit, dan saat itu saya belum bisa mengguanakannya sampe kesusahan untuk mengambil makanan :( , untungnya dari restoran menyediakan sendok pada meja makan, akhirnya saya menggunakan sendok sambil dan belajar bagaimana menggunakan sumpit :) . Berikut beberapa foto saat Welcome party.
+Setelah sampai di restoran, acara welcome party dimulai dengan pembukaan dari Franklin Weng, dilanjut dengan perkenalan dari masing masing tamu dan dimulailah sesi makan - makan :) . Oiya di Taiwan alat makan utamanya adalah sumpit, dan saat itu saya belum bisa menggunakannya sampe kesusahan untuk mengambil makanan :( , untungnya dari restoran menyediakan sendok pada meja makan, akhirnya saya menggunakan sendok sambil dan belajar bagaimana menggunakan sumpit :) . Berikut beberapa foto saat Welcome party.
 
 ![Welcome Party 1](welcome-party-1.webp "Welcome Party 1")
 ![Welcome Party 2](welcome-party-2.webp "Welcome Party 2")
