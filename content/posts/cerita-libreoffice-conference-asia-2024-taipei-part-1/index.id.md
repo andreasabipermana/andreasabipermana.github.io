@@ -88,3 +88,5 @@ Malam harinya kami diajak jalan jalan penyelenggara acara untuk pergi ke [Raohe 
 ## Lanjut Part 2
 
 Sampai disini dulu ceritanya ya, lanjut di part 2 :)
+
+![Sponsor](logo_tdf.png "Sponsor")
