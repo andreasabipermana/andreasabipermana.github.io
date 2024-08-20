@@ -83,7 +83,7 @@ Untuk kesana kami mencoba menaiki bus kembali bedanya disini informasi dari inte
 Akhirnya kami sampai di Fuzhou Shan Park, untuk sampai ke bukit kami harus menaiki cukup banyak anak tangga. Meskipun cukup melelahkan untuk naik tangga keatas, akan tetapi semua terbayar setelah sampai disana :) . Setelah cukup lama di atas bukit sambil berfoto-foto dan istirakat, kami melanjutkan perjalanan ke stasiun terdekat untuk kembali ke hotel.
 
 ![Fuzhou Shan Park 1](fuzhousan-park-1.webp "Fuzhou Shan Park")
-![Foto Bersama](fuzhousan-park-2.webp "Fuzhou Shan Park")
+![Foto Bersama](fuzhousan-park-2.webp "Foto Bersama")
 
 Di tengah - tengah perjalanan kami menyempatkan untuk mengunjungi salah satu toko mainan di pinggir jalan [Yifon Toys](https://maps.app.goo.gl/XYRbgh5v87ruqogf9). Saya sempat tertarik dengan salah satu Action Figure Digimon, akan tetapi setelah proses tawar menawar cukup panjang saya gagal mendapatkannya :( . Setelah itu kami kembali meneruskan perjalanan.
 
@@ -95,12 +95,12 @@ Di tengah - tengah perjalanan kami melewati [Taiwan Insect Museum](https://maps.
 
 ![Taiwan Insect Museum](insect-museum.webp "Taiwan Insect Museum")
 
-Malam harinya kami diajak jalan jalan penyelenggara acara untuk pergi ke [Raohe Night Market](https://maps.app.goo.gl/2Rh6EA8v9VVD2zyUA). Kali ini saya menuju Raohe Night Market menggunakan MRT ke Stasiun Songshan. Suasana night market kali ini sangat ramai banyak pengujungnya. Pertama - tama kami mengunjungi sebuah Temple cukup besar di depan gerbang masuk utama, selanjutnya kami masuk ke pasar malam untuk jalan - jalan dan mencari makan malam. Setelah jam 8:30 kami berkumpul lagi di depan pintu masuk untuk kembali ke hotel.
+Malam harinya kami diajak jalan jalan penyelenggara acara untuk pergi ke [Raohe Night Market](https://maps.app.goo.gl/2Rh6EA8v9VVD2zyUA). Kali ini saya menuju Raohe Night Market menggunakan MRT ke Songshan Station. Suasana night market kali ini sangat ramai banyak pengujungnya. Pertama - tama kami mengunjungi sebuah Temple cukup besar di depan gerbang masuk utama, selanjutnya kami masuk ke pasar malam untuk jalan - jalan dan mencari makan malam. Setelah jam 8:30 kami berkumpul lagi di depan pintu masuk untuk kembali ke hotel.
 
 ![Temple](raohe-2.webp "Temple")
 ![Foto Bersama](raohe-3.webp "Foto Bersama")
 
-Setelah itu kamu pulang ke Hotel menggunakan MRT dari Songshan menuju ke Songjiang Nanjing Station. Perjalanan hari ini cukup melelahkan, saya sampai hotel langsung istirahat mengingat besok masih ada acara utama yaitu Community Day dan COSCUP 2024 di [National Taiwan University of Science and Technology](https://maps.app.goo.gl/oF1tC1EqwDimFKFe6).
+Setelah itu kami pulang ke Hotel menggunakan MRT dari Songshan Station menuju ke Songjiang Nanjing Station. Perjalanan hari ini cukup melelahkan, saya sampai hotel langsung istirahat mengingat besok masih ada acara utama yaitu Community Day dan COSCUP 2024 di [National Taiwan University of Science and Technology](https://maps.app.goo.gl/oF1tC1EqwDimFKFe6).
 
 ![Foto Bersama](mrt-day1.webp "Foto Bersama MRT")
 
