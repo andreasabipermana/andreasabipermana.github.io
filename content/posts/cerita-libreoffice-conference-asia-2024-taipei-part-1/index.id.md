@@ -73,7 +73,7 @@ Blue Rider Art Gallery ini berada di lantai 5 pada sebuah gedung besar, dan tern
 
 Perjalanan selanjutnya kami menuju [Grand Mosque Taipei](https://maps.app.goo.gl/DtCdV1j9Ynght77z6), Karena kebingungan untuk mencari arah akhirnya kami bertanya ke salah satu polisi di jalan untuk menunjukkan arah. Polisi menganjurkan untuk menaiki bis menuju ke masjid melalui Halte yang ada disebelah jalan. Kami mengikuti saran dari polisi tersebut.
 
-Singkat Cerita akhirnya kami sampai di Masjid setelah berjalan kaki dari halte bus, sesampainya di masjid ternyata ada toko indonesia di sebelahnya. Karena waktu solat masih cukup lama dan cuaca di Taipei yang cukup panas, akhirnya saya menyempatkan untuk membeli beberapa gorengan dan Es Dawet disana hehehe. Setelah sampai waktu solat, kami masuk masjid dan melaksanankan solat jumat. Grand Mosque Taipei ini cukup besar, megah, ramai dan banyak orang orang indonesia yang solat jumat disana.
+Singkat cerita akhirnya kami sampai di Masjid setelah berjalan kaki dari halte bus, sesampainya di masjid ternyata ada toko indonesia di sebelahnya. Karena waktu solat masih cukup lama dan cuaca di Taipei yang cukup panas, akhirnya saya menyempatkan untuk membeli beberapa gorengan dan Es Dawet disana hehehe. Setelah sampai waktu solat, kami masuk masjid dan melaksanankan solat jumat. Grand Mosque Taipei ini cukup besar, megah, ramai dan banyak orang orang indonesia yang solat jumat disana.
 
 ![Grand Mosque Taipei](mosque-taipei.webp "Grand Mosque Taipei")
 
